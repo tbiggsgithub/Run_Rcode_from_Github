@@ -1,4 +1,4 @@
-library(Rcurl)
+# library(Rcurl)
 
 myurl = "https://raw.githubusercontent.com/tbiggsgithub/Run_Rcode_from_Github/master/data/11010900_wilson_creek_trib_daily.txt"
 
